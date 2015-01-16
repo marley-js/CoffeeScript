@@ -4,7 +4,12 @@ Up and Running with CoffeeScript
 
 ============================
 
-1 Setting Up Workflows with Gulp.js | 01_04_gulp
+01 Setting Up Workflows with Gulp.js | 01_04_gulp
 
-npm install -g gulp
-npm install
+npm install -g gulp  
+npm install  
+
+
+01 Setting Up Workflows with Gulp.js | 01_05_firsttask
+  
+gulp js
